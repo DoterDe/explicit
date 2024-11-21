@@ -1,0 +1,2 @@
+Lake Baikal,Lake,8.3545e+07,50880
+Black Sea,Sea,1.49971e+09,678600
